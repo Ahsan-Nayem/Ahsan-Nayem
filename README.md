@@ -1,8 +1,8 @@
-(https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/123618711_2748779942117209_7888563120377013072_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHxDicChZffu9PNkS8u0xseutvfsXnvRAq629-xee9ECsN3aDcDVAQoK69OXVwwM1Tb6J1cL_O1_1bEXBZ7BOrG&_nc_ohc=U7dJxR-lGhoAX_VFgXZ&_nc_ht=scontent.fdac27-1.fna&oh=00_AT8fbFcdbSdXy6VRmkBej_XN4NV0TVtKxRRxLXfUGYcmBA&oe=62321098)
-
+![CSE Student](https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/123618711_2748779942117209_7888563120377013072_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHxDicChZffu9PNkS8u0xseutvfsXnvRAq629-xee9ECsN3aDcDVAQoK69OXVwwM1Tb6J1cL_O1_1bEXBZ7BOrG&_nc_ohc=U7dJxR-lGhoAX_VFgXZ&_nc_ht=scontent.fdac27-1.fna&oh=00_AT8fbFcdbSdXy6VRmkBej_XN4NV0TVtKxRRxLXfUGYcmBA&oe=62321098)
 ### Hi there 👋, My name is Md. Ahsan Nayem
 #### CSE Student
-![CSE Student]
+
+
 I like to identify myself as a funny, friendly, honest, calm and patient person.  I am
 always ready to match myself in any situation. I have strong interpersonal skills, I can operate individually in any atmosphere as well as in a group setting, and I am eager to learn and acquire new skills and abilities. Leadership qualities naturally exist within me. I enjoy leading. To tackle problems, I adopt creative approach. I always strive to develop myself as a skilled computer engineer. I want to devote myself as much as possible to the welfare of the country and society.
 
