@@ -1,4 +1,4 @@
-![CSE Student](https://www.facebook.com/photo.php?fbid=2748779938783876&set=pb.100009556905081.-2207520000..&type=3)
+![CSE Student]
 ### Hi there 👋, My name is Md. Ahsan Nayem
 #### CSE Student
 
@@ -10,7 +10,7 @@ always ready to match myself in any situation. I have strong interpersonal skill
 Skills: C / C++/ C# / JAVA / JAVASCRIPT / HTML / PHP / SQL
 
 - 🔭 I’m currently working on Student 
-- 🌱 I’m currently learning Software Development and Project Management 
+- 🌱 I’m currently learning Advance web technology. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ahsan-Nayem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahsannayem07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahsanious_world/)  
